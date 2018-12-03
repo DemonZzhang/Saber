@@ -1,0 +1,13 @@
+{
+    "name": "saber/upload-easy",
+    "authors": [
+        {
+            "name": "saber",
+            "email": "350224276@qq.com"
+        }
+    ],
+    "require": {
+        "qiniu/php-sdk": "^7.2",
+        "aliyuncs/oss-sdk-php": "^2.3"
+    }
+}
