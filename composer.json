@@ -9,5 +9,8 @@
     "require": {
         "qiniu/php-sdk": "^7.2",
         "aliyuncs/oss-sdk-php": "^2.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.2"
     }
 }
